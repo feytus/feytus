@@ -14,7 +14,6 @@
 
 <p align = "center">
 
-[<img src="https://img.shields.io/badge/twitter-1DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white"/>](https://twitter.com/feytusinho)
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://feytus.github.io)
 
 </details>
